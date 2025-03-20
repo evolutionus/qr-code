@@ -36,7 +36,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-Coding this project taught me how to link to an external source(google fonts). It also added that challenge of, displaying an imaage using the imaage tags.
+Coding this project taught me how to link to an external source(google fonts). It also added that challenge of, displaying an image using the img tag.
 
 ```html
 <img class="qr-code-image" src ="./images/image-qr-code.png" alt="qr code image" width="240">
